@@ -1,0 +1,2 @@
+Me apoye de la IA en las siguientes: models.py admin.py
+al igual para conectar mi repositorio y que se reflejen los cambios en github, ya que no me dejaba traspasarlo.
